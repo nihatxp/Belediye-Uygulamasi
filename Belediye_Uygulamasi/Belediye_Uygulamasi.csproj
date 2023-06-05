@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65A48B95-CFF6-4295-AD0E-AAB7A7F4CBD0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Belediye_Uygulamasi</RootNamespace>
+    <AssemblyName>Belediye_Uygulamasi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CoordinateSharp, Version=2.15.2.1, Culture=neutral, PublicKeyToken=f45e02df057b7725, processorArchitecture=MSIL">
+      <HintPath>..\packages\CoordinateSharp.2.15.2.1\lib\net40\CoordinateSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\Downloads\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.11.46.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.46\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Innovative.Geometry.Angle, Version=3.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Angle.3.2.1\lib\net461\Innovative.Geometry.Angle.dll</HintPath>
+    </Reference>
+    <Reference Include="Innovative.SolarCalculator, Version=3.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SolarCalculator.3.2.1\lib\net461\Innovative.SolarCalculator.dll</HintPath>
+    </Reference>
+    <Reference Include="Json.Net, Version=1.0.33.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Json.Net.1.0.33\lib\netstandard2.0\Json.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Markdig, Version=0.30.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Markdig.0.30.4\lib\net452\Markdig.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.2.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.31.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="protobuf-net, Version=3.0.0.0, Culture=neutral, PublicKeyToken=257b51d87d2e4d67, processorArchitecture=MSIL">
+      <HintPath>..\packages\protobuf-net.3.1.26\lib\net462\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net.Core, Version=3.0.0.0, Culture=neutral, PublicKeyToken=257b51d87d2e4d67, processorArchitecture=MSIL">
+      <HintPath>..\packages\protobuf-net.Core.3.1.26\lib\net462\protobuf-net.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.7.1\lib\net461\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Json, Version=2.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Json.4.7.1\lib\net461\System.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Private.DataContractSerialization, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Private.DataContractSerialization.4.3.0\lib\netstandard1.3\System.Private.DataContractSerialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.4.3.0\lib\net462\System.Reflection.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reflection.TypeExtensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.TypeExtensions.4.3.0\lib\net462\System.Reflection.TypeExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Serialization.Primitives.4.3.0\lib\net46\System.Runtime.Serialization.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.XmlDocument, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Xml.XmlDocument.4.3.0\lib\net46\System.Xml.XmlDocument.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WPFMediaKit, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPFMediaKit.2.2.0\lib\WPFMediaKit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminAnaSayfa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminAnaSayfa.Designer.cs">
+      <DependentUpon>AdminAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLoginPage.Designer.cs">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminOtobusEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminOtobusEkle.Designer.cs">
+      <DependentUpon>AdminOtobusEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPaneli.Designer.cs">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AkilliSehir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AkilliSehir.Designer.cs">
+      <DependentUpon>AkilliSehir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bilgilendirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilgilendirme.Designer.cs">
+      <DependentUpon>Bilgilendirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CozumMasasiBasvuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CozumMasasiBasvuru.Designer.cs">
+      <DependentUpon>CozumMasasiBasvuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CozumMasasiTakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CozumMasasiTakip.Designer.cs">
+      <DependentUpon>CozumMasasiTakip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CozumMasasiTakipSonuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CozumMasasiTakipSonuc.Designer.cs">
+      <DependentUpon>CozumMasasiTakipSonuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
+    <Compile Include="Kutahya360.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kutahya360.Designer.cs">
+      <DependentUpon>Kutahya360.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DragForm.cs" />
+    <Compile Include="Eimar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eimar.Designer.cs">
+      <DependentUpon>Eimar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalDegiskenler.cs" />
+    <Compile Include="HalFiyatlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HalFiyatlari.Designer.cs">
+      <DependentUpon>HalFiyatlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HavaDurumu.cs" />
+    <Compile Include="HizmetHaritasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HizmetHaritasi.Designer.cs">
+      <DependentUpon>HizmetHaritasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KameraEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KameraEkle.Designer.cs">
+      <DependentUpon>KameraEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici.cs" />
+    <Compile Include="Kullanicilar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kullanicilar.Designer.cs">
+      <DependentUpon>Kullanicilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciLogin.Designer.cs">
+      <DependentUpon>KullaniciLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciRegister.Designer.cs">
+      <DependentUpon>KullaniciRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainSelectForm.Designer.cs">
+      <DependentUpon>MainSelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeclisKararlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeclisKararlari.Designer.cs">
+      <DependentUpon>MeclisKararlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuStrip\BaskanYardimcilari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuStrip\BaskanYardimcilari.Designer.cs">
+      <DependentUpon>BaskanYardimcilari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesajlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mesajlar.Designer.cs">
+      <DependentUpon>Mesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NobetciEczane.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NobetciEczane.Designer.cs">
+      <DependentUpon>NobetciEczane.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineTahsilat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlineTahsilat.Designer.cs">
+      <DependentUpon>OnlineTahsilat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineTahsilatOdeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlineTahsilatOdeme.Designer.cs">
+      <DependentUpon>OnlineTahsilatOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtobusIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OtobusIslemleri.Designer.cs">
+      <DependentUpon>OtobusIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otobusler.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Projeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projeler.Designer.cs">
+      <DependentUpon>Projeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SehirKameralari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SehirKameralari.Designer.cs">
+      <DependentUpon>SehirKameralari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SokakHayvanlariAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SokakHayvanlariAdmin.Designer.cs">
+      <DependentUpon>SokakHayvanlariAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SosyalTesisler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SosyalTesisler.Designer.cs">
+      <DependentUpon>SosyalTesisler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StratejikYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StratejikYonetim.Designer.cs">
+      <DependentUpon>StratejikYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ulasim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ulasim.Designer.cs">
+      <DependentUpon>Ulasim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Umer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Umer.Designer.cs">
+      <DependentUpon>Umer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KentBilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KentBilgi.Designer.cs">
+      <DependentUpon>KentBilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SokakHayvanlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SokakHayvanlari.Designer.cs">
+      <DependentUpon>SokakHayvanlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VergiIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VergiIslemleri.Designer.cs">
+      <DependentUpon>VergiIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vezne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vezne.Designer.cs">
+      <DependentUpon>Vezne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowserHelper.cs" />
+    <EmbeddedResource Include="AdminAnaSayfa.resx">
+      <DependentUpon>AdminAnaSayfa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLoginPage.resx">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminOtobusEkle.resx">
+      <DependentUpon>AdminOtobusEkle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPaneli.resx">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AkilliSehir.resx">
+      <DependentUpon>AkilliSehir.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilgilendirme.resx">
+      <DependentUpon>Bilgilendirme.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CozumMasasiBasvuru.resx">
+      <DependentUpon>CozumMasasiBasvuru.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CozumMasasiTakip.resx">
+      <DependentUpon>CozumMasasiTakip.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CozumMasasiTakipSonuc.resx">
+      <DependentUpon>CozumMasasiTakipSonuc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kutahya360.resx">
+      <DependentUpon>Kutahya360.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eimar.resx">
+      <DependentUpon>Eimar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HalFiyatlari.resx">
+      <DependentUpon>HalFiyatlari.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HizmetHaritasi.resx">
+      <DependentUpon>HizmetHaritasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KameraEkle.resx">
+      <DependentUpon>KameraEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanicilar.resx">
+      <DependentUpon>Kullanicilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciLogin.resx">
+      <DependentUpon>KullaniciLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciRegister.resx">
+      <DependentUpon>KullaniciRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainSelectForm.resx">
+      <DependentUpon>MainSelectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeclisKararlari.resx">
+      <DependentUpon>MeclisKararlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuStrip\BaskanYardimcilari.resx">
+      <DependentUpon>BaskanYardimcilari.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mesajlar.resx">
+      <DependentUpon>Mesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NobetciEczane.resx">
+      <DependentUpon>NobetciEczane.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlineTahsilat.resx">
+      <DependentUpon>OnlineTahsilat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlineTahsilatOdeme.resx">
+      <DependentUpon>OnlineTahsilatOdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtobusIslemleri.resx">
+      <DependentUpon>OtobusIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projeler.resx">
+      <DependentUpon>Projeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SehirKameralari.resx">
+      <DependentUpon>SehirKameralari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SehirKameralari.shi.resx">
+      <DependentUpon>SehirKameralari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SokakHayvanlariAdmin.resx">
+      <DependentUpon>SokakHayvanlariAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SosyalTesisler.resx">
+      <DependentUpon>SosyalTesisler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StratejikYonetim.resx">
+      <DependentUpon>StratejikYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ulasim.resx">
+      <DependentUpon>Ulasim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Umer.resx">
+      <DependentUpon>Umer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KentBilgi.resx">
+      <DependentUpon>KentBilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SokakHayvanlari.resx">
+      <DependentUpon>SokakHayvanlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VergiIslemleri.resx">
+      <DependentUpon>VergiIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vezne.resx">
+      <DependentUpon>Vezne.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onlinetahsilat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cozummasasi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hizmetharitasi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pdf\styonetim.pdf" />
+    <None Include="Resources\sehirkameralari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ulasim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bilgilendirme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eimar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stratejikyonetim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kentbilgi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sokakhayvanlari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sosyaltesisler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nobetcieczane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projeler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mecliskararlari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kiosk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akillisehir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSHTML">
+      <Guid>{3050F1C5-98B5-11CF-BB82-00AA00BDCE0B}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\annebabalargenelbilgi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umerfaaliyetleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bagimliolma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assistant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assistant1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assistant_checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız_tasarım__7_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cozummasasi-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hizmetharitasi-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sehirkameralari-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umer-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ulasim-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bilgilendirme-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eimar-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stratejikyonetim-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hal-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kentbilgi-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sokakhayvanlari-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sosyaltesisler-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nobetcieczane-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projeler-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mecliskararlari-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kiosk-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akillisehir-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hizmetharitasi-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ulasim-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sehirkameralari-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stratejikyonetim-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sosyaltesisler-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kentbilgi-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sokakhayvanlari-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intake_checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kart.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mastercard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kart Sahibi %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kart Sahibi %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_800x600.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimalist-background-morning-breeze-digital-art-4k-wallpaper-uhdpaper.com-192%400%40e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Actions-document-edit-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus-yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vergi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kamera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Resources\projeler1.png" />
+    <None Include="Resources\onlinetahsilat %281%291.png" />
+    <None Include="Resources\mecliskararlari1.png" />
+    <None Include="Resources\kiosk1.png" />
+    <None Include="Resources\kart1.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\WPFMediaKit.2.2.0\build\WPFMediaKit.targets" Condition="Exists('..\packages\WPFMediaKit.2.2.0\build\WPFMediaKit.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\WPFMediaKit.2.2.0\build\WPFMediaKit.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\WPFMediaKit.2.2.0\build\WPFMediaKit.targets'))" />
+  </Target>
+</Project>

@@ -1,0 +1,427 @@
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\DirectShowLib-2005.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\EVRPresenter32.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\EVRPresenter64.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe.config
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Guna.UI.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Guna.UI2.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Json.Net.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Markdig.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\MySql.Data.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\stdole.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Buffers.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Json.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Memory.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Helpers.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\WPFMediaKit.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Google.Protobuf.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\ZstdNet.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Markdig.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\MySql.Data.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Buffers.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Json.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Memory.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Helpers.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.ResolveComReference.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminAnaSayfa.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminLoginPage.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminOtobusEkle.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminPaneli.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Bilgilendirme.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiBasvuru.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakip.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakipSonuc.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Eimar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HalFiyatlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HizmetHaritasi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kullanicilar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciLogin.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciRegister.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MainSelectForm.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MenuStrip.BaskanYardimcilari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Mesajlar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilat.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilatOdeme.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OtobusIslemleri.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.StratejikYonetim.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Ulasim.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Umer.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.VergiIslemleri.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CopyComplete
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.shi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KentBilgi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SosyalTesisler.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.NobetciEczane.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MeclisKararlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Vezne.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AkilliSehir.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlariAdmin.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KameraEkle.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kutahya360.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Projeler.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\DirectShowLib-2005.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\EVRPresenter32.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\EVRPresenter64.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe.config
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Guna.UI.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Guna.UI2.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Json.Net.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Markdig.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\MySql.Data.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\protobuf-net.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\stdole.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Buffers.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Json.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Memory.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\WPFMediaKit.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Google.Protobuf.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\ZstdNet.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Markdig.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\MySql.Data.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\protobuf-net.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Buffers.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Json.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Memory.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.xml
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.ResolveComReference.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminAnaSayfa.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminLoginPage.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminOtobusEkle.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminPaneli.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AkilliSehir.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Bilgilendirme.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiBasvuru.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakip.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakipSonuc.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kutahya360.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Eimar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HalFiyatlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HizmetHaritasi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KameraEkle.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kullanicilar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciLogin.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciRegister.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MainSelectForm.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MeclisKararlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MenuStrip.BaskanYardimcilari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Mesajlar.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.NobetciEczane.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilat.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilatOdeme.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OtobusIslemleri.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Projeler.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlariAdmin.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SosyalTesisler.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.StratejikYonetim.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Ulasim.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Umer.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KentBilgi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlari.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.VergiIslemleri.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Vezne.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.shi.resources
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CopyComplete
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\Belediye_Uygulamasi - Kopya\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\DirectShowLib-2005.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\EVRPresenter32.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\EVRPresenter64.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe.config
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Guna.UI.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Guna.UI2.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Json.Net.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Markdig.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\MySql.Data.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\protobuf-net.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\stdole.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Buffers.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Json.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Memory.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\WPFMediaKit.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Google.Protobuf.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\ZstdNet.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Markdig.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\MySql.Data.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\protobuf-net.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Buffers.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Json.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Memory.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.ResolveComReference.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminAnaSayfa.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminLoginPage.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminOtobusEkle.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminPaneli.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AkilliSehir.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Bilgilendirme.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiBasvuru.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakip.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakipSonuc.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kutahya360.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Eimar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HalFiyatlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HizmetHaritasi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KameraEkle.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kullanicilar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciLogin.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciRegister.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MainSelectForm.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MeclisKararlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MenuStrip.BaskanYardimcilari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Mesajlar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.NobetciEczane.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilat.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilatOdeme.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OtobusIslemleri.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Projeler.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlariAdmin.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SosyalTesisler.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.StratejikYonetim.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Ulasim.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Umer.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KentBilgi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.VergiIslemleri.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Vezne.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.shi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CopyComplete
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\DirectShowLib-2005.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\EVRPresenter32.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\EVRPresenter64.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe.config
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Belediye_Uygulamasi.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Guna.UI2.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Json.Net.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Markdig.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\MySql.Data.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\stdole.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Buffers.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Json.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Memory.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\WPFMediaKit.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Google.Protobuf.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\ZstdNet.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\CoordinateSharp.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.Geometry.Angle.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Innovative.SolarCalculator.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Markdig.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\MySql.Data.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\protobuf-net.Core.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Buffers.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Json.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Memory.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\System.Web.Razor.xml
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.ResolveComReference.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminAnaSayfa.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminLoginPage.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminOtobusEkle.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AdminPaneli.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.AkilliSehir.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Bilgilendirme.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiBasvuru.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakip.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.CozumMasasiTakipSonuc.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kutahya360.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Eimar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HalFiyatlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.HizmetHaritasi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KameraEkle.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Kullanicilar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciLogin.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KullaniciRegister.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MainSelectForm.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MeclisKararlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.MenuStrip.BaskanYardimcilari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Mesajlar.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.NobetciEczane.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilat.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OnlineTahsilatOdeme.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.OtobusIslemleri.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Projeler.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlariAdmin.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SosyalTesisler.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.StratejikYonetim.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Ulasim.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Umer.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.KentBilgi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SokakHayvanlari.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.VergiIslemleri.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.Vezne.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.SehirKameralari.shi.resources
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\shi\Belediye_Uygulamasi.resources.dll
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.csproj.CopyComplete
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.exe
+C:\Users\nihat\Desktop\visual-programming-final-main\Belediye_Uygulamasi\Belediye_Uygulamasi\obj\Debug\Belediye_Uygulamasi.pdb
